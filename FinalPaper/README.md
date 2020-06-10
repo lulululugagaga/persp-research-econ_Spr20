@@ -7,15 +7,15 @@ The algorithm COMPAS, which is used by many courts in USA to assess the recidivi
 
 ### Table of contents
 
-* [FinalPaper](#FinalPaper)
+* [FinalPaper](https://github.com/lulululugagaga/persp-research-econ_Spr20/tree/master/FinalPaper/FinalPaper)
 
-* [Notebook](#Notebook)
+* [Notebook](https://github.com/lulululugagaga/persp-research-econ_Spr20/tree/master/FinalPaper/Notebook)
 
 Code section might be helpful for reproducible study.
 
 Two computational methods used in this study are threshold selection and decision tree modelling.
 
-* [Data](#Data)
+* [Data](https://github.com/lulululugagaga/persp-research-econ_Spr20/tree/master/FinalPaper/Data)
 
 Data section consists of the raw data,vefication data as well as the cleaned data.
 
