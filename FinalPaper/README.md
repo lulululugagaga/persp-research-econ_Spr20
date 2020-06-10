@@ -21,5 +21,4 @@ Data section consists of the raw data,vefication data as well as the cleaned dat
 
 ### Reference
 
-COMPAS by NorthPointe
-http://www.northpointeinc.com/files/downloads/FAQ_Document.pdf
+* [COMPAS by NorthPointe](http://www.northpointeinc.com/files/downloads/FAQ_Document.pdf)
